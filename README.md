@@ -10,6 +10,6 @@ This is an implementation of autoregressive lstm for encoding distributed repres
 
 Ex 1: decoding body signal into feature vector for personality prediction
 
-
+![image](https://github.com/wenq10/autoregressive-lstm-for-time-series-analysis/figures/corr.jpg)
 
 
